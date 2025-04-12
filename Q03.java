@@ -1,12 +1,12 @@
 
 package com.mycompany.q03;
 
-public class Q03 
+public class Q03
 {
 
     public static void main(String[] args) 
     {
-        //For Loop--------------------
+        //For Loop-------------------
      /*  int i;
        for(i=0; i<5; i++)
        {
@@ -14,7 +14,7 @@ public class Q03
        }  */
         
         
-        //While Loop-------------------------
+        //While Loop---------------------------
         int i=0;
         while(i<5)
         {
